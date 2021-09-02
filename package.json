@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RebecaPovedano/ejercicio017-curso06/issues"
   },
-  "homepage": "https://github.com/RebecaPovedano/ejercicio017-curso06#readme"
+  "homepage": "https://github.com/RebecaPovedano/ejercicio017-curso06#readme",
+  "devDependencies": {
+    "jasmine": "^3.9.0"
+  }
 }
